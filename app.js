@@ -1,5 +1,4 @@
 const express = require('express');
-const fs = require('fs');
 const option_chain = require('./nse_lib');
 const app = express();
 require('dotenv').config();
